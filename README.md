@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, meu nome é Filipe sou programador fullstack Java/React.
+  Olá 👋, meu nome é Filipe sou programador fullstack Java Spring/React/Angular.
  
 </p>
 
